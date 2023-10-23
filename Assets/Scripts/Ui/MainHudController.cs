@@ -23,7 +23,10 @@ namespace Ui
             }
         
             _uiRootObject = uiRoot;
+        }
         
+        public virtual void Init()
+        {
             CollectAndInitWindows();
             CollectAndInitHudButtons();
         }

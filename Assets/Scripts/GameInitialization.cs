@@ -17,9 +17,9 @@ public class GameInitialization : MonoBehaviour
 
     private void BindSystems()
     {
-        ServiceLocator.Add(new MainHudController(_uiRoot));
         ServiceLocator.Add<CurrencySystem>();
         ServiceLocator.Add<SkillsLearningSystem>();
+        ServiceLocator.Add(new MainHudController(_uiRoot));
     }
 
     private void Start()
