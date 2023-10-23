@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4e9473b210144178f511078b1f4caef, type: 3}
+  m_Name: SkillsConfig
+  m_EditorClassIdentifier: 
+  _skillItemConfigs:
+  - ID: 0
+    PointsCost: 0
+    Name: "\u0411\u0410\u0417\u0410"
+    Description: "\u042D\u0442\u043E \u0431\u0430\u0437\u0430, \u043D\u0430\u0434\u043E
+      \u0437\u043D\u0430\u0442\u044C!"
+    IsBaseSkill: 1
+  - ID: 1
+    PointsCost: 1
+    Name: 1
+    Description: Do some 1
+    IsBaseSkill: 0
+  - ID: 2
+    PointsCost: 2
+    Name: 2
+    Description: Do some 2
+    IsBaseSkill: 0
+  - ID: 3
+    PointsCost: 4
+    Name: 3
+    Description: Do some 3
+    IsBaseSkill: 0
+  - ID: 4
+    PointsCost: 1
+    Name: 4
+    Description: Do some 4
+    IsBaseSkill: 0
+  - ID: 5
+    PointsCost: 3
+    Name: 5
+    Description: Do some 5
+    IsBaseSkill: 0
+  - ID: 6
+    PointsCost: 2
+    Name: 6
+    Description: Do some 6
+    IsBaseSkill: 0
+  - ID: 7
+    PointsCost: 6
+    Name: 7
+    Description: Do some 7
+    IsBaseSkill: 0
+  - ID: 8
+    PointsCost: 2
+    Name: 8
+    Description: Do some 8
+    IsBaseSkill: 0
+  - ID: 9
+    PointsCost: 2
+    Name: 9
+    Description: Do some 9
+    IsBaseSkill: 0
+  - ID: 10
+    PointsCost: 3
+    Name: 10
+    Description: Do some 10
+    IsBaseSkill: 0
+  - ID: 11
+    PointsCost: 4
+    Name: 11
+    Description: Do some 11
+    IsBaseSkill: 0
+  - ID: 12
+    PointsCost: 5
+    Name: 12
+    Description: Do some 12
+    IsBaseSkill: 0
